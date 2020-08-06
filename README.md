@@ -17,4 +17,10 @@ Print the numbers from 1 to 100
 
 ## Execution of our code in the console 
 
+
 ![alt text](https://github.com/Emanuele-20/FizzBuzz-exercise/blob/master/img/browser_console_REPL.png)
+
+
+## How this code interacts with numbers in console
+
+![alt text](https://github.com/Emanuele-20/FizzBuzz-exercise/blob/master/img/example.png)
